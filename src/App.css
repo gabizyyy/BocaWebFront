@@ -1,0 +1,87 @@
+
+.container{
+    background-color: rgb(255, 254, 245);
+}
+
+.logobocaweb{
+    max-width:2000px;
+    max-height:1000px;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+.cabecalho{
+    font-size: 70px;
+    color: rgb(197, 79, 0);
+    font-weight:500;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.busca{
+    text-align: center;
+    box-shadow: 0 0 5px rgb(41, 55, 59);
+    background-color:hsl(22, 100%, 50%);
+}
+
+.inputcaixa{
+    border-radius: 4px;
+    width: 1000px;
+    height: 40px;
+    font-size: 20px;
+}
+
+.nomedoODA{
+    color: rgb(197, 79, 0);
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 20px;
+    padding-top: 15px;
+}
+
+.palavrachaveODA{
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.descricaodoODA{
+    font-size: 22px;
+    margin-left: 10px;
+}
+
+.nomedousuario{
+    font-size: 18px;
+    margin-left: 10px;
+    font-weight: 300;
+}
+
+.datadoODA{
+    font-size: 18px;
+    margin-left: 10px;
+    margin-bottom: 40px;
+    padding-bottom: 10px;
+    font-weight: 300;
+    
+}
+
+.listainteira{
+    background-color:hsl(32, 85%, 92%);
+    border-radius: 7px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 2rem;
+    left: 520px;
+    top: 571px;
+    box-shadow: 0 0 10px rgb(41, 55, 59);
+}
+
+.rodape{
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    background-color:hsl(22, 100%, 50%);
+    margin-top: 2rem;
+    padding: 50px;
+}
+
